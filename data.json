@@ -1,0 +1,838 @@
+[
+    {
+        "phone_name": "Galaxy S21",
+        "brand_name": "Samsung",
+        "price": 999.99,
+        "type": "Smartphone",
+        "processor": "Exynos 2100",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "11"
+        },
+        "description": "The Samsung Galaxy S21 is a flagship smartphone with a powerful processor, stunning display, and advanced camera system.",
+        "rating": 4.5,
+        "color": [
+            "Phantom Gray",
+            "Phantom White",
+            "Phantom Violet"
+        ],
+        "back_camera": "Triple 12MP+12MP+64MP",
+        "front_camera": "10MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP68",
+        "photos": [
+            "https://i.ibb.co/0Q2wxXj/2101-60481.jpg",
+            "https://i.ibb.co/Jnhbwkb/2101-90436.jpg",
+            "https://i.ibb.co/hMH5ktZ/2101-34043.jpg"
+        ]
+    },
+    {
+        "phone_name": "Pixel 6",
+        "brand_name": "Google",
+        "price": 799.99,
+        "type": "Smartphone",
+        "processor": "Snapdragon 870",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "12"
+        },
+        "description": "The Google Pixel 6 is known for its exceptional camera performance, clean Android experience, and timely software updates.",
+        "rating": 4.7,
+        "color": [
+            "Sorta Seafoam",
+            "Sorta Sunny",
+            "Sorta Sage"
+        ],
+        "back_camera": "Dual 50MP+12MP",
+        "front_camera": "8MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP67",
+        "photos": [
+            "https://i.ibb.co/wRnFQcG/3774-39198.jpg",
+            "https://i.ibb.co/K2VLCrw/3774-67323.jpg",
+            "https://i.ibb.co/BCDcqSZ/3774-46951.jpg"
+        ]
+    },
+    {
+        "phone_name": "Galaxy S21",
+        "brand_name": "Samsung",
+        "price": 999.99,
+        "type": "Smartphone",
+        "processor": "Exynos 2100",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "11"
+        },
+        "description": "The Samsung Galaxy S21 is a flagship smartphone with a powerful processor, stunning display, and advanced camera system.",
+        "rating": 4.5,
+        "color": [
+            "Phantom Gray",
+            "Phantom White",
+            "Phantom Violet"
+        ],
+        "back_camera": "Triple 12MP+12MP+64MP",
+        "front_camera": "10MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP68",
+        "photos": [
+            "https://i.ibb.co/0Q2wxXj/2101-60481.jpg",
+            "https://i.ibb.co/Jnhbwkb/2101-90436.jpg",
+            "https://i.ibb.co/hMH5ktZ/2101-34043.jpg"
+        ]
+    },
+    {
+        "phone_name": "Pixel 6",
+        "brand_name": "Google",
+        "price": 799.99,
+        "type": "Smartphone",
+        "processor": "Snapdragon 870",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "12"
+        },
+        "description": "The Google Pixel 6 is known for its exceptional camera performance, clean Android experience, and timely software updates.",
+        "rating": 4.7,
+        "color": [
+            "Sorta Seafoam",
+            "Sorta Sunny",
+            "Sorta Sage"
+        ],
+        "back_camera": "Dual 50MP+12MP",
+        "front_camera": "8MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP67",
+        "photos": [
+            "https://i.ibb.co/wRnFQcG/3774-39198.jpg",
+            "https://i.ibb.co/K2VLCrw/3774-67323.jpg",
+            "https://i.ibb.co/BCDcqSZ/3774-46951.jpg"
+        ]
+    },
+    {
+        "phone_name": "Galaxy S21",
+        "brand_name": "Samsung",
+        "price": 999.99,
+        "type": "Smartphone",
+        "processor": "Exynos 2100",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "11"
+        },
+        "description": "The Samsung Galaxy S21 is a flagship smartphone with a powerful processor, stunning display, and advanced camera system.",
+        "rating": 4.5,
+        "color": [
+            "Phantom Gray",
+            "Phantom White",
+            "Phantom Violet"
+        ],
+        "back_camera": "Triple 12MP+12MP+64MP",
+        "front_camera": "10MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP68",
+        "photos": [
+            "https://i.ibb.co/0Q2wxXj/2101-60481.jpg",
+            "https://i.ibb.co/Jnhbwkb/2101-90436.jpg",
+            "https://i.ibb.co/hMH5ktZ/2101-34043.jpg"
+        ]
+    },
+    {
+        "phone_name": "Pixel 6",
+        "brand_name": "Google",
+        "price": 799.99,
+        "type": "Smartphone",
+        "processor": "Snapdragon 870",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "12"
+        },
+        "description": "The Google Pixel 6 is known for its exceptional camera performance, clean Android experience, and timely software updates.",
+        "rating": 4.7,
+        "color": [
+            "Sorta Seafoam",
+            "Sorta Sunny",
+            "Sorta Sage"
+        ],
+        "back_camera": "Dual 50MP+12MP",
+        "front_camera": "8MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP67",
+        "photos": [
+            "https://i.ibb.co/wRnFQcG/3774-39198.jpg",
+            "https://i.ibb.co/K2VLCrw/3774-67323.jpg",
+            "https://i.ibb.co/BCDcqSZ/3774-46951.jpg"
+        ]
+    },
+    {
+        "phone_name": "Galaxy S21",
+        "brand_name": "Samsung",
+        "price": 999.99,
+        "type": "Smartphone",
+        "processor": "Exynos 2100",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "11"
+        },
+        "description": "The Samsung Galaxy S21 is a flagship smartphone with a powerful processor, stunning display, and advanced camera system.",
+        "rating": 4.5,
+        "color": [
+            "Phantom Gray",
+            "Phantom White",
+            "Phantom Violet"
+        ],
+        "back_camera": "Triple 12MP+12MP+64MP",
+        "front_camera": "10MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP68",
+        "photos": [
+            "https://i.ibb.co/0Q2wxXj/2101-60481.jpg",
+            "https://i.ibb.co/Jnhbwkb/2101-90436.jpg",
+            "https://i.ibb.co/hMH5ktZ/2101-34043.jpg"
+        ]
+    },
+    {
+        "phone_name": "Pixel 6",
+        "brand_name": "Google",
+        "price": 799.99,
+        "type": "Smartphone",
+        "processor": "Snapdragon 870",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "12"
+        },
+        "description": "The Google Pixel 6 is known for its exceptional camera performance, clean Android experience, and timely software updates.",
+        "rating": 4.7,
+        "color": [
+            "Sorta Seafoam",
+            "Sorta Sunny",
+            "Sorta Sage"
+        ],
+        "back_camera": "Dual 50MP+12MP",
+        "front_camera": "8MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP67",
+        "photos": [
+            "https://i.ibb.co/wRnFQcG/3774-39198.jpg",
+            "https://i.ibb.co/K2VLCrw/3774-67323.jpg",
+            "https://i.ibb.co/BCDcqSZ/3774-46951.jpg"
+        ]
+    },
+    {
+        "phone_name": "Galaxy S21",
+        "brand_name": "Samsung",
+        "price": 999.99,
+        "type": "Smartphone",
+        "processor": "Exynos 2100",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "11"
+        },
+        "description": "The Samsung Galaxy S21 is a flagship smartphone with a powerful processor, stunning display, and advanced camera system.",
+        "rating": 4.5,
+        "color": [
+            "Phantom Gray",
+            "Phantom White",
+            "Phantom Violet"
+        ],
+        "back_camera": "Triple 12MP+12MP+64MP",
+        "front_camera": "10MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP68",
+        "photos": [
+            "https://i.ibb.co/0Q2wxXj/2101-60481.jpg",
+            "https://i.ibb.co/Jnhbwkb/2101-90436.jpg",
+            "https://i.ibb.co/hMH5ktZ/2101-34043.jpg"
+        ]
+    },
+    {
+        "phone_name": "Pixel 6",
+        "brand_name": "Google",
+        "price": 799.99,
+        "type": "Smartphone",
+        "processor": "Snapdragon 870",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "12"
+        },
+        "description": "The Google Pixel 6 is known for its exceptional camera performance, clean Android experience, and timely software updates.",
+        "rating": 4.7,
+        "color": [
+            "Sorta Seafoam",
+            "Sorta Sunny",
+            "Sorta Sage"
+        ],
+        "back_camera": "Dual 50MP+12MP",
+        "front_camera": "8MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP67",
+        "photos": [
+            "https://i.ibb.co/wRnFQcG/3774-39198.jpg",
+            "https://i.ibb.co/K2VLCrw/3774-67323.jpg",
+            "https://i.ibb.co/BCDcqSZ/3774-46951.jpg"
+        ]
+    },
+    {
+        "phone_name": "Galaxy S21",
+        "brand_name": "Samsung",
+        "price": 999.99,
+        "type": "Smartphone",
+        "processor": "Exynos 2100",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "11"
+        },
+        "description": "The Samsung Galaxy S21 is a flagship smartphone with a powerful processor, stunning display, and advanced camera system.",
+        "rating": 4.5,
+        "color": [
+            "Phantom Gray",
+            "Phantom White",
+            "Phantom Violet"
+        ],
+        "back_camera": "Triple 12MP+12MP+64MP",
+        "front_camera": "10MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP68",
+        "photos": [
+            "https://i.ibb.co/0Q2wxXj/2101-60481.jpg",
+            "https://i.ibb.co/Jnhbwkb/2101-90436.jpg",
+            "https://i.ibb.co/hMH5ktZ/2101-34043.jpg"
+        ]
+    },
+    {
+        "phone_name": "Pixel 6",
+        "brand_name": "Google",
+        "price": 799.99,
+        "type": "Smartphone",
+        "processor": "Snapdragon 870",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "12"
+        },
+        "description": "The Google Pixel 6 is known for its exceptional camera performance, clean Android experience, and timely software updates.",
+        "rating": 4.7,
+        "color": [
+            "Sorta Seafoam",
+            "Sorta Sunny",
+            "Sorta Sage"
+        ],
+        "back_camera": "Dual 50MP+12MP",
+        "front_camera": "8MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP67",
+        "photos": [
+            "https://i.ibb.co/wRnFQcG/3774-39198.jpg",
+            "https://i.ibb.co/K2VLCrw/3774-67323.jpg",
+            "https://i.ibb.co/BCDcqSZ/3774-46951.jpg"
+        ]
+    },
+    {
+        "phone_name": "Galaxy S21",
+        "brand_name": "Samsung",
+        "price": 999.99,
+        "type": "Smartphone",
+        "processor": "Exynos 2100",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "11"
+        },
+        "description": "The Samsung Galaxy S21 is a flagship smartphone with a powerful processor, stunning display, and advanced camera system.",
+        "rating": 4.5,
+        "color": [
+            "Phantom Gray",
+            "Phantom White",
+            "Phantom Violet"
+        ],
+        "back_camera": "Triple 12MP+12MP+64MP",
+        "front_camera": "10MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP68",
+        "photos": [
+            "https://i.ibb.co/0Q2wxXj/2101-60481.jpg",
+            "https://i.ibb.co/Jnhbwkb/2101-90436.jpg",
+            "https://i.ibb.co/hMH5ktZ/2101-34043.jpg"
+        ]
+    },
+    {
+        "phone_name": "Pixel 6",
+        "brand_name": "Google",
+        "price": 799.99,
+        "type": "Smartphone",
+        "processor": "Snapdragon 870",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "12"
+        },
+        "description": "The Google Pixel 6 is known for its exceptional camera performance, clean Android experience, and timely software updates.",
+        "rating": 4.7,
+        "color": [
+            "Sorta Seafoam",
+            "Sorta Sunny",
+            "Sorta Sage"
+        ],
+        "back_camera": "Dual 50MP+12MP",
+        "front_camera": "8MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP67",
+        "photos": [
+            "https://i.ibb.co/wRnFQcG/3774-39198.jpg",
+            "https://i.ibb.co/K2VLCrw/3774-67323.jpg",
+            "https://i.ibb.co/BCDcqSZ/3774-46951.jpg"
+        ]
+    },
+    {
+        "phone_name": "Galaxy S21",
+        "brand_name": "Samsung",
+        "price": 999.99,
+        "type": "Smartphone",
+        "processor": "Exynos 2100",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "11"
+        },
+        "description": "The Samsung Galaxy S21 is a flagship smartphone with a powerful processor, stunning display, and advanced camera system.",
+        "rating": 4.5,
+        "color": [
+            "Phantom Gray",
+            "Phantom White",
+            "Phantom Violet"
+        ],
+        "back_camera": "Triple 12MP+12MP+64MP",
+        "front_camera": "10MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP68",
+        "photos": [
+            "https://i.ibb.co/0Q2wxXj/2101-60481.jpg",
+            "https://i.ibb.co/Jnhbwkb/2101-90436.jpg",
+            "https://i.ibb.co/hMH5ktZ/2101-34043.jpg"
+        ]
+    },
+    {
+        "phone_name": "Pixel 6",
+        "brand_name": "Google",
+        "price": 799.99,
+        "type": "Smartphone",
+        "processor": "Snapdragon 870",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "12"
+        },
+        "description": "The Google Pixel 6 is known for its exceptional camera performance, clean Android experience, and timely software updates.",
+        "rating": 4.7,
+        "color": [
+            "Sorta Seafoam",
+            "Sorta Sunny",
+            "Sorta Sage"
+        ],
+        "back_camera": "Dual 50MP+12MP",
+        "front_camera": "8MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP67",
+        "photos": [
+            "https://i.ibb.co/wRnFQcG/3774-39198.jpg",
+            "https://i.ibb.co/K2VLCrw/3774-67323.jpg",
+            "https://i.ibb.co/BCDcqSZ/3774-46951.jpg"
+        ]
+    },
+    {
+        "phone_name": "Galaxy S21",
+        "brand_name": "Samsung",
+        "price": 999.99,
+        "type": "Smartphone",
+        "processor": "Exynos 2100",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "11"
+        },
+        "description": "The Samsung Galaxy S21 is a flagship smartphone with a powerful processor, stunning display, and advanced camera system.",
+        "rating": 4.5,
+        "color": [
+            "Phantom Gray",
+            "Phantom White",
+            "Phantom Violet"
+        ],
+        "back_camera": "Triple 12MP+12MP+64MP",
+        "front_camera": "10MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP68",
+        "photos": [
+            "https://i.ibb.co/0Q2wxXj/2101-60481.jpg",
+            "https://i.ibb.co/Jnhbwkb/2101-90436.jpg",
+            "https://i.ibb.co/hMH5ktZ/2101-34043.jpg"
+        ]
+    },
+    {
+        "phone_name": "Pixel 6",
+        "brand_name": "Google",
+        "price": 799.99,
+        "type": "Smartphone",
+        "processor": "Snapdragon 870",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "12"
+        },
+        "description": "The Google Pixel 6 is known for its exceptional camera performance, clean Android experience, and timely software updates.",
+        "rating": 4.7,
+        "color": [
+            "Sorta Seafoam",
+            "Sorta Sunny",
+            "Sorta Sage"
+        ],
+        "back_camera": "Dual 50MP+12MP",
+        "front_camera": "8MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP67",
+        "photos": [
+            "https://i.ibb.co/wRnFQcG/3774-39198.jpg",
+            "https://i.ibb.co/K2VLCrw/3774-67323.jpg",
+            "https://i.ibb.co/BCDcqSZ/3774-46951.jpg"
+        ]
+    },
+    {
+        "phone_name": "Galaxy S21",
+        "brand_name": "Samsung",
+        "price": 999.99,
+        "type": "Smartphone",
+        "processor": "Exynos 2100",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "11"
+        },
+        "description": "The Samsung Galaxy S21 is a flagship smartphone with a powerful processor, stunning display, and advanced camera system.",
+        "rating": 4.5,
+        "color": [
+            "Phantom Gray",
+            "Phantom White",
+            "Phantom Violet"
+        ],
+        "back_camera": "Triple 12MP+12MP+64MP",
+        "front_camera": "10MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP68",
+        "photos": [
+            "https://i.ibb.co/0Q2wxXj/2101-60481.jpg",
+            "https://i.ibb.co/Jnhbwkb/2101-90436.jpg",
+            "https://i.ibb.co/hMH5ktZ/2101-34043.jpg"
+        ]
+    },
+    {
+        "phone_name": "Pixel 6",
+        "brand_name": "Google",
+        "price": 799.99,
+        "type": "Smartphone",
+        "processor": "Snapdragon 870",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "12"
+        },
+        "description": "The Google Pixel 6 is known for its exceptional camera performance, clean Android experience, and timely software updates.",
+        "rating": 4.7,
+        "color": [
+            "Sorta Seafoam",
+            "Sorta Sunny",
+            "Sorta Sage"
+        ],
+        "back_camera": "Dual 50MP+12MP",
+        "front_camera": "8MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP67",
+        "photos": [
+            "https://i.ibb.co/wRnFQcG/3774-39198.jpg",
+            "https://i.ibb.co/K2VLCrw/3774-67323.jpg",
+            "https://i.ibb.co/BCDcqSZ/3774-46951.jpg"
+        ]
+    },
+    {
+        "phone_name": "Galaxy S21",
+        "brand_name": "Samsung",
+        "price": 999.99,
+        "type": "Smartphone",
+        "processor": "Exynos 2100",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "11"
+        },
+        "description": "The Samsung Galaxy S21 is a flagship smartphone with a powerful processor, stunning display, and advanced camera system.",
+        "rating": 4.5,
+        "color": [
+            "Phantom Gray",
+            "Phantom White",
+            "Phantom Violet"
+        ],
+        "back_camera": "Triple 12MP+12MP+64MP",
+        "front_camera": "10MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP68",
+        "photos": [
+            "https://i.ibb.co/0Q2wxXj/2101-60481.jpg",
+            "https://i.ibb.co/Jnhbwkb/2101-90436.jpg",
+            "https://i.ibb.co/hMH5ktZ/2101-34043.jpg"
+        ]
+    },
+    {
+        "phone_name": "Pixel 6",
+        "brand_name": "Google",
+        "price": 799.99,
+        "type": "Smartphone",
+        "processor": "Snapdragon 870",
+        "memory": [
+            "256GB",
+            "512GB",
+            "1TB"
+        ],
+        "RAM": [
+            "6GB",
+            "8GB",
+            "12GB"
+        ],
+        "OS": {
+            "name": "Android",
+            "version": "12"
+        },
+        "description": "The Google Pixel 6 is known for its exceptional camera performance, clean Android experience, and timely software updates.",
+        "rating": 4.7,
+        "color": [
+            "Sorta Seafoam",
+            "Sorta Sunny",
+            "Sorta Sage"
+        ],
+        "back_camera": "Dual 50MP+12MP",
+        "front_camera": "8MP",
+        "fingerprint": true,
+        "face_unlock": true,
+        "waterproof": "IP67",
+        "photos": [
+            "https://i.ibb.co/wRnFQcG/3774-39198.jpg",
+            "https://i.ibb.co/K2VLCrw/3774-67323.jpg",
+            "https://i.ibb.co/BCDcqSZ/3774-46951.jpg"
+        ]
+    }
+]
